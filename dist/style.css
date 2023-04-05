@@ -582,7 +582,7 @@ header  {
     }
 
     .footer .box-footer {
-        grid-template-columns: 1gr;
+        grid-template-columns: 1fr;
         row-gap: 30px;
     }
 }
@@ -615,7 +615,7 @@ header  {
     }
 }
 
-@media screen and (max-width: 5475px) {
+@media screen and (max-width: 475px) {
     .kontak .box-kontak button {
         margin-bottom: 5px;
     }
